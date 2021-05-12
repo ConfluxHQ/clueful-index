@@ -47,7 +47,7 @@ Start with a score of 0 and then add or subtract points based on the indicators 
 ## 2 - social media posts
 
 * there are social media posts from a brand account about engineering **+1**
-* there is one or more a dedicated engineering/technology social media accounts **+1**
+* there is one or more dedicated engineering/technology social media accounts **+1**
 * there are regular social media posts about engineering/technology (at least one per month) **+1**
 
 ## 3 - product documentation
@@ -82,7 +82,7 @@ Start with a score of 0 and then add or subtract points based on the indicators 
 
 * the organization contributes publicly to Open Source Software (OSS) **+1**
 * the organization contributes an entire application, service, or codebase to the open source community **+2**
-* the organization contributes has simply 'dumped' some internal software to a public repository and does not maintain the software **-2**
+* the organization has simply 'dumped' some internal software to a public repository and does not maintain the software **-2**
 
 ## 9 - use of open source software
 
@@ -92,7 +92,7 @@ Start with a score of 0 and then add or subtract points based on the indicators 
 ## 10 - use and encouragement of good practices
 
 * the organization claims to use modern practices **+1**
-* the organization writes/talks/shares significatn detail about how they use modern practices **+1**
+* the organization writes/talks/shares significant details about how they use modern practices **+1**
 * the organization uses 'buzzword bingo' lists of technologies in its job advertisements **-3**
 
 ## 11 - online error messages 
