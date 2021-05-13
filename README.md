@@ -26,6 +26,7 @@ Use the Clueful Index to answer questions such as:
 * Should I apply for a job at this organization?
 * Should I invest my money with this organization? (banks, investment companies, etc.)
 * Should I use this organization as a supplier?
+* How could my organization improve its practices?
 
 Why? If an organization has a poor grasp of technology and practices, do you really want to work there? If a bank has a poor grasp of technology and practices, do you really want to invest your money there? If an organization has a poor grasp of technology and practices, do you really want to rely on their services?
 
