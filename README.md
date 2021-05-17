@@ -23,9 +23,9 @@ The presence and quality of these public resources can often (although not alway
 
 Use the Clueful Index to answer questions such as:
 
-* Should I apply for a job at this organization?
-* Should I invest my money with this organization? (banks, investment companies, etc.)
-* Should I use this organization as a supplier?
+* Should I apply for a job at this organization? 💼
+* Should I invest my money with this organization? 💵 (banks, investment companies, etc.)
+* Should I use this organization as a supplier? 🚛
 
 Why? If an organization has a poor grasp of technology and practices, do you really want to work there? If a bank has a poor grasp of technology and practices, do you really want to invest your money there? If an organization has a poor grasp of technology and practices, do you really want to rely on their services?
 
@@ -35,7 +35,7 @@ Modern software systems are complicated (even complex) and organizations that ha
 
 Start with a score of 0 and then add or subtract points based on the indicators below in relation to the organization in question. You will need to use your judgement for some indicators, but that's fine - this is only a semi-objective appraisal.
 
-## 1 - Public engineering blog
+## 1 - public engineering blog
 
 * there is a public engineering blog **+1**
 * the engineering blog is linked from the corporate website **+1**
