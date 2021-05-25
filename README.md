@@ -16,6 +16,7 @@ The 'clueful indicators' relate to the public profile presented by the organizat
 * contributions to open source software
 * use of open source software
 * use of good practices
+* senior tech leadership churn
 
 The presence and quality of these public resources can often (although not always) give a good indication of the 'cluefulness' of the organization.
 
@@ -98,6 +99,10 @@ Start with a score of 0 and then add or subtract points based on the indicators 
 ## 11 - online error messages 
 
 * when an error occurs in online services, a useful error message is shown - including a unique error identifier (or trace ID) **+1**
+
+## 12 - senior tech leadership churn
+
+* several senior tech leaders have recently left the organiation and have not been replaced with credible 'clueful' people **-2**
 
 # Results
 
